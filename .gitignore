@@ -1,4 +1,5 @@
-﻿.claude/
-CLAUDE.md
-CLAUDE.local.md
-.claude.json
+# OS / editor
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
